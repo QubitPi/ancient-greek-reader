@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ancient-greek-reader/static/css/main.c3fb2057.css",
+    "main.js": "/ancient-greek-reader/static/js/main.62e35def.js",
+    "static/media/Οἰκονμικός.mp3": "/ancient-greek-reader/static/media/Οἰκονμικός.0f2a070e5075e50d19f2.mp3",
+    "static/media/pause.svg": "/ancient-greek-reader/static/media/pause.6d72bb709ff2f64924bbacda4a237460.svg",
+    "static/media/prev.svg": "/ancient-greek-reader/static/media/prev.0b3cf3c27186335c6a4ab74bb6356fd9.svg",
+    "static/media/next.svg": "/ancient-greek-reader/static/media/next.7c9d7c79bc1bddbc64b7cda0cad6f96b.svg",
+    "index.html": "/ancient-greek-reader/index.html",
+    "static/media/play.svg": "/ancient-greek-reader/static/media/play.ae28f2f8ed43f26bbecc733fd80f370c.svg",
+    "main.c3fb2057.css.map": "/ancient-greek-reader/static/css/main.c3fb2057.css.map",
+    "main.62e35def.js.map": "/ancient-greek-reader/static/js/main.62e35def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fb2057.css",
+    "static/js/main.62e35def.js"
+  ]
+}
