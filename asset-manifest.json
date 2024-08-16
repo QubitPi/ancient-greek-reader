@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/ancient-greek-reader/static/css/main.c3fb2057.css",
-    "main.js": "/ancient-greek-reader/static/js/main.62e35def.js",
+    "main.css": "/ancient-greek-reader/static/css/main.ce4aaffd.css",
+    "main.js": "/ancient-greek-reader/static/js/main.ec0a6d36.js",
     "static/media/Οἰκονμικός.mp3": "/ancient-greek-reader/static/media/Οἰκονμικός.0f2a070e5075e50d19f2.mp3",
+    "static/media/Porson.ttf": "/ancient-greek-reader/static/media/Porson.129e415c277ab518ee11.ttf",
+    "static/media/logo.svg": "/ancient-greek-reader/static/media/logo.5960a40c55bc6e536d14f96786e6fb5a.svg",
     "static/media/pause.svg": "/ancient-greek-reader/static/media/pause.6d72bb709ff2f64924bbacda4a237460.svg",
     "static/media/prev.svg": "/ancient-greek-reader/static/media/prev.0b3cf3c27186335c6a4ab74bb6356fd9.svg",
     "static/media/next.svg": "/ancient-greek-reader/static/media/next.7c9d7c79bc1bddbc64b7cda0cad6f96b.svg",
     "index.html": "/ancient-greek-reader/index.html",
     "static/media/play.svg": "/ancient-greek-reader/static/media/play.ae28f2f8ed43f26bbecc733fd80f370c.svg",
-    "main.c3fb2057.css.map": "/ancient-greek-reader/static/css/main.c3fb2057.css.map",
-    "main.62e35def.js.map": "/ancient-greek-reader/static/js/main.62e35def.js.map"
+    "main.ce4aaffd.css.map": "/ancient-greek-reader/static/css/main.ce4aaffd.css.map",
+    "main.ec0a6d36.js.map": "/ancient-greek-reader/static/js/main.ec0a6d36.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3fb2057.css",
-    "static/js/main.62e35def.js"
+    "static/css/main.ce4aaffd.css",
+    "static/js/main.ec0a6d36.js"
   ]
 }
