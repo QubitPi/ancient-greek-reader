@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ancient-greek-reader/static/css/main.dcfc7666.css",
-    "main.js": "/ancient-greek-reader/static/js/main.0027cd07.js",
+    "main.js": "/ancient-greek-reader/static/js/main.df4baef7.js",
     "static/js/453.5f2241d2.chunk.js": "/ancient-greek-reader/static/js/453.5f2241d2.chunk.js",
     "static/media/Οἰκονομικός-segment-1.mp3": "/ancient-greek-reader/static/media/Οἰκονομικός-segment-1.f6a6a280865a8e2c9507.mp3",
     "static/media/Xenophon.png": "/ancient-greek-reader/static/media/Xenophon.ff85a9cf2aeb6d574b55.png",
@@ -17,11 +17,11 @@
     "static/media/audio.svg": "/ancient-greek-reader/static/media/audio.e18a32572a93f0428bbe6c37f2d553a3.svg",
     "static/media/play.svg": "/ancient-greek-reader/static/media/play.53558cb0e7d0ebe204319f9148aba98f.svg",
     "main.dcfc7666.css.map": "/ancient-greek-reader/static/css/main.dcfc7666.css.map",
-    "main.0027cd07.js.map": "/ancient-greek-reader/static/js/main.0027cd07.js.map",
+    "main.df4baef7.js.map": "/ancient-greek-reader/static/js/main.df4baef7.js.map",
     "453.5f2241d2.chunk.js.map": "/ancient-greek-reader/static/js/453.5f2241d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcfc7666.css",
-    "static/js/main.0027cd07.js"
+    "static/js/main.df4baef7.js"
   ]
 }
